@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Blog de Tecnologia</title>
+    <style>
+        /* Estilos Globais */
+        body {
+            font-family: 'Arial', sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+            color: #333;
+        }
+
+        /* Cabeçalho */
+        header {
+            background-color: #222;
+            color: #fff;
+            padding: 30px 0;
+            text-align: center;
+            box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            letter-spacing: 2px;
+        }
+
+        header p {
+            font-size: 1.2em;
+            margin-top: 10px;
+            color: #35FD1F;
+            font-weight: bold;
+        }
+
+        /* Estilo principal */
+        main {
+            width: 85%;
+            max-width: 1200px;
+            margin: 40px auto;
+        }
+
+        /* Estilos dos artigos */
+        article {
+            background-color: white;
+            margin-bottom: 30px;
+            padding: 25px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+            border-radius: 10px;
+            transition: all 0.3s ease;
+            position: relative;
+            overflow: hidden;
+        }
+
+        article:hover {
+            transform: translateY(-10px);
+            box-shadow: 0 8px 15px rgba(0, 0, 0, 0.2);
+        }
+
+        article h2 {
+            margin-top: 0;
+            font-size: 2em;
+            color: #222;
+        }
+
+        .date {
+            font-size: 0.9em;
+            color: #777;
+            margin-bottom: 15px;
+        }
+
+        article p {
+            font-size: 1.1em;
+            line-height: 1.6;
+        }
+
+        /* Destaque Verde */
+        article:before {
+            content: '';
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 5px;
+            height: 100%;
+            background-color: #35FD1F;
+        }
+
+        /* Botão Leia Mais */
+        .read-more {
+            display: inline-block;
+            margin-top: 15px;
+            padding: 10px 20px;
+            background-color: #35FD1F;
+            color: white;
+            text-decoration: none;
+            border-radius: 25px;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+
+        .read-more:hover {
+            background-color: #28c416;
+        }
+
+        /* Rodapé */
+        footer {
+            text-align: center;
+            padding: 20px;
+            background-color: #222;
+            color: white;
+            margin-top: 50px;
+        }
+
+        footer p {
+            margin: 0;
+            font-size: 1em;
+        }
+
+        footer a {
+            color: #35FD1F;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        footer a:hover {
+            text-decoration: underline;
+        }
+
+        /* Estilos Responsivos */
+        @media (max-width: 768px) {
+            main {
+                width: 90%;
+            }
+
+            article h2 {
+                font-size: 1.8em;
+            }
+
+            .read-more {
+                padding: 8px 16px;
+            }
+        }
+
+        @media (max-width: 480px) {
+            header h1 {
+                font-size: 1.8em;
+            }
+
+            header p {
+                font-size: 1em;
+            }
+
+            article h2 {
+                font-size: 1.5em;
+            }
+
+            .read-more {
+                font-size: 0.9em;
+                padding: 6px 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Blog de Tecnologia</h1>
+    <p>Novidades, tutoriais e tendências do mundo da tecnologia</p>
+</header>
+
+<main>
+    <article>
+        <h2>Título da Postagem 1</h2>
+        <p class="date">Publicado em: 25 de outubro de 2024</p>
+        <p>Este é o conteúdo da primeira postagem do blog. Aqui você pode compartilhar informações sobre tecnologia, dicas, tutoriais e muito mais!</p>
+        <a href="#" class="read-more">Leia mais</a>
+    </article>
+
+    <article>
+        <h2>Título da Postagem 2</h2>
+        <p class="date">Publicado em: 24 de outubro de 2024</p>
+        <p>Este é o conteúdo da segunda postagem. Fale sobre o que está acontecendo no mundo da tecnologia, novas tendências e lançamentos.</p>
+        <a href="#" class="read-more">Leia mais</a>
+    </article>
+
+    <article>
+        <h2>Título da Postagem 3</h2>
+        <p class="date">Publicado em: 23 de outubro de 2024</p>
+        <p>Este é o conteúdo da terceira postagem. Você pode expandir o blog incluindo imagens, vídeos e links para mais conteúdo interessante.</p>
+        <a href="#" class="read-more">Leia mais</a>
+    </article>
+</main>
+
+<footer>
+    <p>Blog de Tecnologia &copy; 2024 | <a href="#">Política de Privacidade</a></p>
+</footer>
+
+</body>
+</html>
