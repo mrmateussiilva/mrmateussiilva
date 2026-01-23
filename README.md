@@ -1,20 +1,21 @@
 <div align="center">
 
 # ⚡ MATEUS JOSÉ DA SILVA ⚡
+
 ```
-    ██████╗ ██████╗ ██████╗ ███████╗    ██████╗  ██████╗  ██████╗██╗  ██╗
-   ██╔════╝██╔═══██╗██╔══██╗██╔════╝    ██╔══██╗██╔═══██╗██╔════╝██║ ██╔╝
-   ██║     ██║   ██║██║  ██║█████╗      ██████╔╝██║   ██║██║     █████╔╝ 
-   ██║     ██║   ██║██║  ██║██╔══╝      ██╔══██╗██║   ██║██║     ██╔═██╗ 
-   ╚██████╗╚██████╔╝██████╔╝███████╗    ██║  ██║╚██████╔╝╚██████╗██║  ██╗
-    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝    ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
+    ██████╗ ██████╗ ██████╗ ███████╗ ██████╗ ██████╗ ██████╗██╗ ██╗
+   ██╔════╝██╔═══██╗██╔══██╗██╔════╝ ██╔══██╗██╔═══██╗██╔════╝██║ ██╔╝
+   ██║     ██║   ██║██║  ██║█████╗   ██████╔╝██║   ██║██║     █████╔╝ 
+   ██║     ██║   ██║██║  ██║██╔══╝   ██╔══██╗██║   ██║██║     ██╔═██╗ 
+   ╚██████╗╚██████╔╝██████╔╝███████╗ ██║  ██║╚██████╔╝╚██████╗██║  ██╗
+    ╚═════╝ ╚═════╝ ╚═════╝ ╚══════╝ ╚═╝  ╚═╝ ╚═════╝  ╚═════╝╚═╝  ╚═╝
 ```
 
 ### 🎸 *Programador • Leitor • Rockeiro* 🎸
 
 > *"Code with the fury of a guitar solo, read with the depth of a bass line, live with the energy of a drum beat"*
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=System+Programmer+%7C+Low-Level+Hacker;Rust+%7C+Zig+%7C+C%2FC%2B%2B;Book+Lover+%7C+Philosophy+Reader;Rock+%26+Metal+Enthusiast+%F0%9F%A4%98" alt="Typing SVG" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=System+Programmer+%7C+Low-Level+Hacker;Rust+%7C+Zig+%7C+C%2FC%2B%2B;Book+Lover+%7C+Philosophy+Reader;Rock+%26+Metal+Enthusiast+🤘)](https://git.io/typing-svg)
 
 </div>
 
@@ -29,7 +30,7 @@ Não escrevo código. Eu **componho sistemas**.
 Cada função é um riff, cada algoritmo é uma progressão.  
 Low-level é meu palco, o kernel é minha plateia.
 
-### 📚 O LEITOR  
+### 📚 O LEITOR
 Entre `{` e `}`, há filosofia.  
 Dostoiévski me ensinou sobre bugs da alma humana.  
 Linus me mostrou que revolução começa com código aberto.
@@ -38,6 +39,7 @@ Linus me mostrou que revolução começa com código aberto.
 Programo ouvindo metal.  
 Cada commit é uma batida de bumbo.  
 Deployment em produção? Isso é um **DROP PESADO**.
+
 ```rust
 fn vida() -> Soundtrack {
     let codigo = escrever_com_furia();
@@ -47,6 +49,32 @@ fn vida() -> Soundtrack {
     merge(codigo, livro, musica) // 🤘
 }
 ```
+
+<br clear="right"/>
+
+---
+
+<div align="center">
+
+## 📊 GITHUB STATS • THE NUMBERS BEHIND THE NOISE 📊
+
+<a href="https://github.com/mrmateussiilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mrmateussiilva&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=ff0000&icon_color=ff0000&text_color=c9d1d9&cache_seconds=1800"/>
+</a>
+<a href="https://github.com/mrmateussiilva">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmateussiilva&layout=compact&langs_count=8&theme=radical&hide_border=true&bg_color=0d1117&title_color=ff0000&text_color=c9d1d9&hide=html,css&size_weight=0.5&count_weight=0.5&cache_seconds=1800"/>
+</a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=mrmateussiilva&theme=radical&hide_border=true&background=0d1117&stroke=ff0000&ring=ff0000&fire=ff0000&currStreakLabel=ff0000" alt="GitHub Streak"/>
+
+### 🎸 **LINGUAGENS MAIS TOCADAS** 🎸
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mrmateussiilva&theme=radical)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mrmateussiilva&theme=radical)
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=mrmateussiilva&theme=radical&hide_border=true&bg_color=0d1117&color=ff0000&line=ff0000&point=ffffff" alt="Contribution Graph"/>
+
+</div>
 
 ---
 
@@ -65,16 +93,21 @@ fn vida() -> Soundtrack {
 
 <div align="center">
 
-![Rust](https://img.shields.io/badge/Rust-000?style=flat-square&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-F7A41D?style=flat-square&logo=zig&logoColor=black)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-F7A41D?style=for-the-badge&logo=zig&logoColor=black)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-**Frameworks**
-![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=flat-square&logo=tauri&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+**Frameworks & Tools**
+
+![Tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=tauri&logoColor=black)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 **Arquitetura**
 ```
@@ -100,13 +133,13 @@ Postgres→ Produção + Triggers
 
 #### **Literatura & Mente**
 - 🎭 *O Médico e o Monstro*  
-  *→ Dualidade: código elegante vs legacy*
+  → *Dualidade: código elegante vs legacy*
 - 📚 *Dostoiévski*  
-  *→ Bugs da condição humana*
+  → *Bugs da condição humana*
 - 🧠 *Nietzsche*  
-  *→ Refatoração da moral*
+  → *Refatoração da moral*
 - ⚔️ *A Arte da Guerra*  
-  *→ Estratégia em code review*
+  → *Estratégia em code review*
 
 </td>
 <td width="33%" valign="top">
@@ -118,16 +151,16 @@ Postgres→ Produção + Triggers
 ```
 🔥 Metal Progressivo
    └─ Tool, Dream Theater
-   
-⚡ Thrash Metal  
+  
+⚡ Thrash Metal
    └─ Metallica, Megadeth
-   
+  
 🎭 Metal Sinfônico
    └─ Nightwish, Epica
-   
+  
 🌑 Doom/Stoner
    └─ Black Sabbath, Sleep
-   
+  
 🤘 Classic Rock
    └─ Led Zeppelin, Pink Floyd
 ```
@@ -152,11 +185,12 @@ Postgres→ Produção + Triggers
 <tr>
 <td width="50%">
 
-### 💧 **AQUA** 
+### 💧 **AQUA**
 #### *The Language Symphony*
+
 ```
 🎼 Movimento I: Ergonomia
-🎵 Movimento II: Concorrência  
+🎵 Movimento II: Concorrência
 🎸 Movimento III: Performance
 ```
 
@@ -171,6 +205,7 @@ Python-friendly, Rust-powerful.
 
 ### 🌀 **GizOS**
 #### *Kernel from Hell*
+
 ```c
 // O sistema operacional mais metal
 void kernel_main() {
@@ -196,6 +231,7 @@ Zig puro. Zero compromisso.
 Assistente com IA que não te enche o saco.  
 Automatiza, aprende, executa.  
 Machine learning aplicado ao mundo real.
+
 ```python
 safira.say("Deixa comigo, chefe 🤘")
 ```
@@ -205,13 +241,14 @@ safira.say("Deixa comigo, chefe 🤘")
 
 ### 📊 **ÚLTIMA TOUR**
 #### *Sprint Stats*
+
 ```
 ═══════════════════════════
-  30K   │ Linhas revisadas
-   27   │ PRs merged  
-   67   │ Commits dropped
-   32   │ Actions triggered
-    ∞   │ Riffs tocados
+  30K │ Linhas revisadas
+   27 │ PRs merged
+   67 │ Commits dropped
+   32 │ Actions triggered
+    ∞ │ Riffs tocados
 ═══════════════════════════
 ```
 
@@ -220,6 +257,17 @@ safira.say("Deixa comigo, chefe 🤘")
 </table>
 
 ---
+
+<div align="center">
+
+## 🏆 CONQUISTAS • ACHIEVEMENTS • TROFÉUS 🏆
+
+![Trophies](https://github-profile-trophy.vercel.app/?username=mrmateussiilva&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+
+</div>
+
+---
+
 <div align="center">
 
 ## 🌐 BACKSTAGE ACCESS
@@ -235,17 +283,22 @@ safira.say("Deixa comigo, chefe 🤘")
 </a>
 
 ---
+
 ```
 ┌─────────────────────────────────────────────────────────┐
-│  "Entre chaves de código, páginas de livros e acordes  │
-│   distorcidos, construo sistemas que fazem sentido."   │
+│ "Entre chaves de código, páginas de livros e acordes   │
+│  distorcidos, construo sistemas que fazem sentido."    │
 │                                                         │
-│   Mateus J. Silva © 2025 • Powered by 🔥 & 🎸         │
+│       Mateus J. Silva © 2025 • Powered by 🔥 & 🎸      │
 └─────────────────────────────────────────────────────────┘
 ```
 
 ### 🤘 *LONG LIVE CODE • LONG LIVE ROCK* 🤘
 
+![Snake animation](https://github.com/mrmateussiilva/mrmateussiilva/blob/output/github-contribution-grid-snake-dark.svg)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=120&section=footer&text=KEEP%20CODING%20🎸&fontSize=30&fontColor=fff&animation=twinkling"/>
+
+![Visitor Count](https://profile-counter.glitch.me/mrmateussiilva/count.svg)
 
 </div>
