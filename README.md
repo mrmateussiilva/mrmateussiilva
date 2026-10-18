@@ -18,8 +18,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F70000&center=true&vCenter=true&width=600&lines=System+Programmer+%7C+Low-Level+Hacker;Rust+%7C+Zig+%7C+C%2FC%2B%2B;Book+Lover+%7C+Philosophy+Reader;Rock+%26+Metal+Enthusiast+🤘)](https://git.io/typing-svg)
 
 </div>
-
----
+<div>
+    <a href="https://codetrainer.pepinelli.dev"><img src="https://codetrainer.pepinelli.dev/api/card/mrmateussiilva" alt="mrmateussiilva' Code Trainer Card" width="500"></a>
+</div>
 
 <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
 
